@@ -1,0 +1,37 @@
+# Binary files
+*.exe
+*.out
+*.o
+*.so
+*.a
+
+# Go modules and dependencies
+/vendor/
+bin/
+pkg/
+cover.out
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Logs and debug files
+*.log
+*.test
+debug/
+
+# IDE and Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node.js (if using for frontend)
+node_modules/
+npm-debug.log
+yarn.lock
