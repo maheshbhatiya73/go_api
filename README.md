@@ -2,14 +2,14 @@
 
 A simple authentication API built with **Go**, **Fiber**, **MongoDB**, and **JWT**. It provides user registration and login functionality using email, username, and password.
 
-## 🚀 Features
+##  Features
 - User registration with hashed password storage.
 - User login with JWT token generation.
 - Supports login using **email** or **username**.
 - Secure authentication using **bcrypt** and **JWT**.
 - MongoDB for database storage.
 
-## 🛠 Tech Stack
+##  Tech Stack
 - [Go (Golang)](https://go.dev/)
 - [Fiber Web Framework](https://gofiber.io/)
 - [MongoDB](https://www.mongodb.com/)
@@ -19,9 +19,9 @@ A simple authentication API built with **Go**, **Fiber**, **MongoDB**, and **JWT
 
 ---
 
-## 📌 Installation & Setup
+##  Installation & Setup
 
-### **1️⃣ Clone the Repository**
+### **1️ Clone the Repository**
 ```sh
 git clone https://github.com/your-username/go-auth-api.git
 cd go_api
