@@ -24,5 +24,6 @@ A simple authentication API built with **Go**, **Fiber**, **MongoDB**, and **JWT
 ### **1️⃣ Clone the Repository**
 ```sh
 git clone https://github.com/your-username/go-auth-api.git
-cd go-auth-api
+cd go_api
+
 
